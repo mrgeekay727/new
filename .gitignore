@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+
+# Node.js
+node_modules/
+package-lock.json
+*.log
+
+# Environment Variables
+.env*
+
+# OS Files
+.DS_Store
+Thumbs.db
